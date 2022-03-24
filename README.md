@@ -2,4 +2,4 @@
 Program Python Sederhana
 
 # Program Kasir Apotek
-Admin dan Pelanggan
+Program CRUD Admin dan Kasir Pelanggan
