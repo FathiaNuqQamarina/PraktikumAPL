@@ -3,6 +3,7 @@ Program Python Sederhana
 
 # Program Kasir Apotek
 Program CRUD Admin dan Kasir Pelanggan
+FATHIA NUQ QAMARINA /  2009106012
 
 # PA APL PROGRAM CRUD TOKO BABY CARE & SUPPLIES
 /// PROGRAM BY KELOMPOK PA ALP//
